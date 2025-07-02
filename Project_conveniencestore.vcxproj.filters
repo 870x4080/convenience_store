@@ -21,6 +21,15 @@
     <ClCompile Include="imt.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="goods.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="patment.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="job.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="imt.h">
@@ -29,7 +38,10 @@
     <ClInclude Include="patment.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="sales.h">
+    <ClInclude Include="goods.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="job.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

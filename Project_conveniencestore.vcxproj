@@ -128,12 +128,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Cumain.cpp" />
+    <ClCompile Include="goods.cpp" />
     <ClCompile Include="imt.cpp" />
+    <ClCompile Include="job.cpp" />
+    <ClCompile Include="patment.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="goods.h" />
     <ClInclude Include="imt.h" />
+    <ClInclude Include="job.h" />
     <ClInclude Include="patment.h" />
-    <ClInclude Include="sales.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,5 +1,5 @@
 #pragma once
-//매출 
+//재고 
 
 class imt
 {
